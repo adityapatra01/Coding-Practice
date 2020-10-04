@@ -1,0 +1,74 @@
+General Problems
+
+1. Armstrong Number
+2. Strong Number
+3. Prime Number
+4. Prime Numbers in range
+5. Factorial
+6. Fibonacci Series
+7. Check Fibonacci
+8. nth Fibonacci
+9. Swap 2 numbers without using temporary variable
+10. HCF of 3 numbers
+11. LCM of 3 numbers
+12. Check leap year
+13. Check is the number is plaindrome
+14. Reverse number
+15. Check whether the number is even or odd
+16. Calculate exponential value given base and power
+17. Convert decimal to binary
+18. Convert binary to decimal
+19. Calculate Square root of a number
+
+
+Array based Problems
+
+1. Swap elements within the array
+2. Swap elements of two arrays
+3. Matrix multiplication
+
+
+String based Problems
+
+1. Check if the string is Plaindrome
+2. Concatenate 2 strings
+3. Reverse string 
+
+
+Searching Problems
+
+1. Implement linear search
+2. Implement binary search
+3. Print second largest element
+
+
+Sorting Problems
+
+1. Implement Bubble Sort
+2. Implement Selection Sort
+3. Implement Insertion Sort
+4. Implement Quick Sort
+5. Implement Bucket Sort
+6. Implement Merge Sort
+7. Implement Heap Sort
+8. Implement Shell Sort
+9. Implement Radix Sort
+10. Implement Counting Sort
+11. Implement Breadth First Search
+12. Implement Depth First Search
+13. Implement Level Order Search 
+
+
+Recursion based Problems
+
+1. Calculate exponential value given base and power
+2. Calculate Factorial
+3. nth Fibonacci
+4. Count number of digits
+5. Check plaindrome
+6. Reverse String
+7. Implement Tower of Hanoi
+
+
+Linked List based Problems
+1. Implement a Linked List
